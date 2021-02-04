@@ -1,0 +1,54 @@
+.main-component{
+    background: #424242;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    /* height: 100%; */
+}
+
+mat-card{
+    border-radius: 2px;
+    min-width: 20rem;
+}
+
+.main-menu-title {
+    color: white;
+    margin: auto;
+}
+
+.select-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+
+.mode-select-title{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2em;
+}
+
+.main-menu{
+    margin: 2rem;    
+}
+
+button {
+    margin: auto;
+
+    min-width: 10rem;
+}
+
+.button-section{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+#start-button{
+    min-width: 10rem;
+    min-height: 5rem;
+    border-radius: 5px;
+    max-width: none;
+}
